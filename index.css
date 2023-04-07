@@ -1,0 +1,77 @@
+
+
+
+.dlogo
+{
+  height: 30px;
+  width: 100px;
+}
+.container-fluid
+{
+  background-color: #404eed;
+  background-image: url(discode/e6d57714479874c665b36c7adee76b1d.svg);
+
+  background-size: color;
+  background-position: bottom;
+  background-repeat:no-repeat;
+  height: 698px;
+  width: 100%;
+  z-index: -1;
+  
+}
+
+.dloge
+{
+  width: 124px;
+  height: 34px;
+}
+#logo
+{
+  padding-left: 20px;
+}
+
+
+@font-face
+{
+  font-family: ginto;
+  src: url(/Ginto-Nord-700.woff);
+}
+.headbtn
+{
+  
+}
+
+#headtext
+{
+  
+  text-align: center;
+}
+.color
+{
+  background-color: #eee;
+}
+.s1
+{
+  justify-content: center;
+}
+#imagine
+{
+  font-family: ginto;
+}
+#reliable
+{
+  font-family: ginto;
+}
+.text-light
+{
+  font-weight: 100;
+}
+#bold
+{
+  font-weight: 900;
+  
+}
+#btnof3
+{
+  padding: 16px 32px 16px 32px;
+}
